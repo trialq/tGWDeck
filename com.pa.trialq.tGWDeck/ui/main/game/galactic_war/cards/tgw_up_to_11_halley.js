@@ -16,7 +16,7 @@ define(['shared/gw_common'], function(GW) {
             };
         },
         deal: function (system, context) {
-            var chance = 1000;
+            var chance = 10;
             return { chance: chance };
         },
         buff: function(inventory, params) {
