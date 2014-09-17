@@ -4,9 +4,9 @@
     "display_name": "Galactic War Deck",
     "description": "A custom deck for use in Galactic War",
     "author": "trialq",
-    "version": "1.5",
-    "build": "71729",
-    "date": "2014/09/07",
+    "version": "1.6",
+    "build": "71937",
+    "date": "2014/09/17",
     "signature": "not yet implemented",
     "forum": "https://forums.uberent.com/threads/rel-galactic-war-deck.60167/",
     "icon": "http://pamods.github.io/icons/tGWDeck.png",
@@ -49,7 +49,9 @@
             "coui://ui/main/game/galactic_war/cards/tgw_up_to_11_inferno.js",
             "coui://ui/main/game/galactic_war/cards/tgw_up_to_11_mine.js",
             "coui://ui/main/game/galactic_war/cards/tgw_up_to_11_scout.js",
-            "coui://ui/main/game/galactic_war/cards/tgw_up_to_11_t2.js"
+            "coui://ui/main/game/galactic_war/cards/tgw_up_to_11_t2.js",
+            "coui://ui/main/game/galactic_war/cards/tgw_up_to_11_halley.js",
+            "coui://ui/main/game/galactic_war/cards/tgw_up_to_11_annihilaser.js"
         ]
     },
     "priority": 100,

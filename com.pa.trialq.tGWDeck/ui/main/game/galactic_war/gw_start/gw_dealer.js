@@ -58,7 +58,10 @@ define([
         'tgw_up_to_11_inferno',
         'tgw_up_to_11_mine',
         'tgw_up_to_11_scout',
-        'tgw_up_to_11_t2'
+        'tgw_up_to_11_t2',
+
+        'tgw_up_to_11_halley',
+        'tgw_up_to_11_annihilaser'
         
         
         
@@ -109,7 +112,10 @@ define([
         'tgw_up_to_11_inferno',
         'tgw_up_to_11_mine',
         'tgw_up_to_11_scout',
-        'tgw_up_to_11_t2'
+        'tgw_up_to_11_t2',
+
+        'tgw_up_to_11_halley',
+        'tgw_up_to_11_annihilaser'
     ];
     
     var extraDeck = [
